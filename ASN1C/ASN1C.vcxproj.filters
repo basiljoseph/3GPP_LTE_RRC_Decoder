@@ -1,0 +1,4128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AbsoluteTimeInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AC-BarringConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AC-BarringConfig1XRTT-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AccessStratumRelease.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdditionalReestabInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdditionalReestabInfoList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdditionalSI-Info-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdditionalSpectrumEmission.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AllowedMeasBandwidth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntennaInfoCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntennaInfoDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntennaInfoDedicated-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntennaInfoDedicated-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntennaInfoUL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaConfiguration-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueEUTRA-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ARFCN-ValueUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AS-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AS-Config-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AS-Context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asn_codecs_prim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asn_SEQUENCE_OF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="asn_SET_OF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandclassCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassInfoCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassPriority1XRTT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassPriorityHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassPriorityList1XRTT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandClassPriorityListHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandCombinationListEUTRA-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandCombinationParametersExt-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandCombinationParameters-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandCombinationParameters-v1090.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandIndicatorGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandInfoEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandListEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandParametersDL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandParameters-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandParametersUL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BandParameters-v1090.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCCH-BCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCCH-BCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCCH-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCCH-DL-SCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BCCH-DL-SCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ber_decoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ber_tlv_length.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ber_tlv_tag.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BIT_STRING.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackCellsToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackCellsToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BOOLEAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CA-BandwidthClass-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CA-MIMO-ParametersDL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CA-MIMO-ParametersUL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CandidateCellInfoList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CandidateCellInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierBandwidthEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqInfoUTRA-FDD-v8h0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqListUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqListUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqListUTRA-TDD-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqsGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqsInfoGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqsInfoListGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CarrierFreqUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDMA2000-Type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellChangeOrder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellGlobalIdCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellGlobalIdEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellGlobalIdGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellGlobalIdList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellGlobalIdUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellIdentity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellIndex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellIndexList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoGERAN-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoListGERAN-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoListUTRA-FDD-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoListUTRA-TDD-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoListUTRA-TDD-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoUTRA-FDD-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoUTRA-TDD-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellInfoUTRA-TDD-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellReselectionParametersCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellReselectionParametersCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellReselectionPriority.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellSelectionInfo-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModListUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModListUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsToAddModUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CellsTriggeredList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonSF-AllocPatternList-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constr_CHOICE.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constr_SEQUENCE.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constr_SEQUENCE_OF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constr_SET_OF.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constr_TYPE.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="constraints.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheck.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheck-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheckResponse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheckResponse-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheckResponse-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CounterCheck-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingRequestInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingRequestList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingResponseInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingResponseList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportAperiodic-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportConfig-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportConfigSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportConfig-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportModeAperiodic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportPeriodic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CQI-ReportPeriodic-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C-RNTI.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CrossCarrierSchedulingConfig-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersRequestCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersRequestCDMA2000-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersRequestCDMA2000-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersResponseCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersResponseCDMA2000-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFBParametersResponseCDMA2000-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFB-RegistrationParam1XRTT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSFB-RegistrationParam1XRTT-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSG-AllowedReportingCells-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSG-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSG-ProximityIndicationParameters-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSI-RS-Config-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DedicatedInfoCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DedicatedInfoNAS.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeltaFList-PUCCH.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeltaTxD-OffsetListPUCCH-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="der_encoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-AM-RLC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-CCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-CCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-DCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-DCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DLInformationTransfer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DLInformationTransfer-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DLInformationTransfer-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DL-UM-RLC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-CountInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-CountInfoList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-CountMSB-Info.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-CountMSB-InfoList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-ToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-ToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRB-ToReleaseList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DRX-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E-CSFB-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EstablishmentCause.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplicitListOfARFCNs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FilterCoefficient.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqBandIndicator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqBandIndicator-UTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqBandIndicator-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityListEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityListUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityListUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqPriorityUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqsPriorityGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FreqsPriorityListGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Handover.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverCommand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverCommand-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverFromEUTRAPreparationRequest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverFromEUTRAPreparationRequest-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverFromEUTRAPreparationRequest-v890-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverFromEUTRAPreparationRequest-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverFromEUTRAPreparationRequest-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverPreparationInformation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverPreparationInformation-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverPreparationInformation-v9d0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverPreparationInformation-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandoverPreparationInformation-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hysteresis.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleModeMobilityControlInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleModeMobilityControlInfo-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSI.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IMSI-Digit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InitialUE-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="INTEGER.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqBandInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqBandList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqBlackCellList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqCarrierFreqInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqCarrierFreqInfo-v8h0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqCarrierFreqInfo-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqCarrierFreqList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqNeighCellInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqNeighCellList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqRSTDMeasurementIndication-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFreqRSTDMeasurementIndication-r10-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterRAT-BandInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterRAT-BandList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntraFreqBlackCellList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntraFreqNeighCellInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntraFreqNeighCellList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersCDMA2000-1XRTT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersCDMA2000-1XRTT-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersCDMA2000-1XRTT-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersCDMA2000-HRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersGERAN-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-TDD128.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-TDD384.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-TDD768.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-TDD-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-v9c0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-v9h0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IRAT-ParametersUTRA-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Key-eNodeB-Star.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LocationInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggedMeasurementConfiguration-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggedMeasurementConfiguration-r10-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggingDuration-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoggingInterval-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogicalChannelConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogMeasInfoList2-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogMeasInfoList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogMeasInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogMeasReport-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MAC-MainConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MasterInformationBlock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMSCountingRequest-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMSCountingResponse-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMSCountingResponse-r10-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMS-NotificationConfig-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMS-SessionInfoList-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMS-SessionInfo-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFNAreaConfiguration-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFNAreaConfiguration-v930-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFN-AreaInfoList-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFN-AreaInfo-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFN-SubframeConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MBSFN-SubframeConfigList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MCC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MCC-MNC-Digit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasCycleSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasGapConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasId.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasIdToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasIdToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasIdToRemoveList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectId.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectToAddModList-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectToAddMod-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectToRemoveList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasObjectUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasParameters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasParameters-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResult2CDMA2000-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResult2EUTRA-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResult2EUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResult2UTRA-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultForECID-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultList2CDMA2000-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultList2EUTRA-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultList2EUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultList2GERAN-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultList2UTRA-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultListEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultListGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultListUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResults.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultsCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultServFreqList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultServFreq-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasResultUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasSubframeCellList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasSubframePatternConfigNeigh-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasSubframePatternPCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasSubframePattern-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasurementReport.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasurementReport-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MeasurementReport-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MIMO-CapabilityDL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MIMO-CapabilityUL-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MMEC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MNC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityControlInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-r9-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-v8d0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-v930-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityFromEUTRACommand-v960-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityParametersCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MobilityStateParameters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiBandInfoList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiBandInfoList-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiBandInfo-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="N1PUCCH-AN-CS-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="N1PUCCH-AN-PersistentList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NativeEnumerated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NativeInteger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellListCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellSI-AcquisitionParameters-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellsPerBandclassCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellsPerBandclassCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellsPerBandclassListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeighCellsPerBandclassListCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NextHopChainingCount.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NonContiguousUL-RA-WithinCC-List-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NonContiguousUL-RA-WithinCC-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NULL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OCTET_STRING.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OTDOA-PositioningCapabilities-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OtherConfig-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Paging.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PagingRecord.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PagingRecordList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PagingUE-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Paging-v890-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Paging-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCH-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PDCP-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PDCP-Parameters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PDSCH-ConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PDSCH-ConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="per_decoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="per_encoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="per_opentype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="per_support.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PHICH-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhyLayerParameters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhyLayerParameters-v9d0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhyLayerParameters-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhyLayerParameters-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellId.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdListCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdListCDMA2000-v920.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdRange.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdRangeUTRA-FDDList-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdRangeUTRA-FDD-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysCellIdUTRA-TDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicalConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicalConfigDedicatedSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PLMN-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PLMN-IdentityInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PLMN-IdentityList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PLMN-IdentityList2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P-Max.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PMCH-Config-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PMCH-InfoList-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PMCH-Info-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PollByte.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PollPDU.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PRACH-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PRACH-ConfigInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PRACH-ConfigSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PRACH-ConfigSIB.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PreRegistrationInfoHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PreRegistrationZoneIdHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PresenceAntennaPort1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProximityIndication-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProximityIndication-r9-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProximityIndication-v930-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUCCH-ConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUCCH-ConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUCCH-ConfigDedicated-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUSCH-ConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUSCH-ConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUSCH-ConfigDedicatedSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PUSCH-ConfigDedicated-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q-OffsetRange.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q-OffsetRangeInterRAT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q-QualMin-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q-RxLevMin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfigCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfigEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfigGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfigUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityConfigUTRA-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RACH-ConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RACH-ConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioResourceConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioResourceConfigCommonSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioResourceConfigCommonSIB.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioResourceConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioResourceConfigDedicatedSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RAND-CDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RAT-Type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedirectedCarrierInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedirectedCarrierInfo-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReestablishmentCause.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReestablishmentInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReestabUE-Identity.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisteredMME.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReleaseCause.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigId.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigInterRAT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportConfigToRemoveList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportInterval.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportProximityConfig-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReselectionThreshold.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReselectionThresholdQ-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RF-Parameters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RF-Parameters-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RF-Parameters-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RF-Parameters-v1060.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RF-Parameters-v1090.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RLC-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RLF-Report-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RLF-Report-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RLF-TimersAndConstants-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RNReconfigurationComplete-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RNReconfigurationComplete-r10-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RNReconfiguration-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RNReconfiguration-r10-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RN-SubframeConfig-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RN-SystemInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfiguration.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfigurationComplete.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfigurationComplete-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfigurationComplete-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfigurationComplete-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfiguration-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfiguration-v890-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfiguration-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReconfiguration-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishment.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentComplete.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentComplete-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentComplete-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentComplete-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentComplete-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishment-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentReject.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentReject-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentReject-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentRequest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishmentRequest-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReestablishment-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReject.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReject-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReject-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionReject-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease-v890-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRelease-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRequest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionRequest-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetupComplete.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetupComplete-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetupComplete-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetupComplete-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetup-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRCConnectionSetup-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRC-TransactionIdentifier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RRM-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RSRP-Range.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RSRQ-Range.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RSTD-InterFreqInfoList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RSTD-InterFreqInfo-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCellIndex-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCellToAddModList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCellToAddMod-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SCellToReleaseList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchedulingInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchedulingInfoList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchedulingRequestConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchedulingRequestConfig-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecondaryPreRegistrationZoneIdListHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityAlgorithmConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityConfigHO.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityConfigSMC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeCommand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeCommand-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeCommand-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeComplete.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeComplete-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeComplete-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeFailure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeFailure-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SecurityModeFailure-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServCellIndex-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShortMAC-I.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SIB-MappingInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SIB-Type.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SI-OrPSI-GERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SN-FieldLength.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SON-Parameters-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundingRS-UL-ConfigCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundingRS-UL-ConfigDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundingRS-UL-ConfigDedicatedAperiodic-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundingRS-UL-ConfigDedicated-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedStateScaleFactors.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SPS-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SPS-ConfigDL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SPS-ConfigUL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SRB-ToAddMod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SRB-ToAddModList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SRS-AntennaPort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SRS-ConfigAp-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S-TMSI.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandCombinationExt-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandCombination-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandCombination-v1090.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandList1XRTT.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListEUTRA-v9e0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListHRPD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListUTRA-TDD128.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListUTRA-TDD384.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandListUTRA-TDD768.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandUTRA-FDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandUTRA-TDD128.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandUTRA-TDD384.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandUTRA-TDD768.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SupportedBandwidthCombinationSet-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInfoListGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType1-v8h0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType1-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType1-v890-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType1-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType2-v8h0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType2-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType5-v8h0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType5-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType6-v8h0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType12-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformationBlockType13-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformation-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemInformation-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemTimeInfoCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TDD-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThresholdCDMA2000.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThresholdEUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThresholdGERAN.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThresholdUTRA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeAlignmentTimer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeToTrigger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TMGI-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TPC-Index.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TPC-PDCCH-Config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T-PollRetransmit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TraceReference-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackingAreaCode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackingAreaCodeList-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T-Reordering.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T-Reselection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T-StatusProhibit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-BasedNetwPerfMeasParameters-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityEnquiry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityEnquiry-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityEnquiry-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityInformation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityInformation-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UECapabilityInformation-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-CapabilityRAT-Container.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-CapabilityRAT-ContainerList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-CapabilityRequest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-CapabilityAddXDD-Mode-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-CapabilityAddXDD-Mode-v1060.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v9a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v9c0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v9d0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v9h0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v10c0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v920-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v940-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v1060-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-EUTRA-Capability-v1090-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationRequest-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationRequest-r9-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationRequest-v930-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationRequest-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationResponse-r9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationResponse-r9-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationResponse-v9e0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationResponse-v930-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UEInformationResponse-v1020-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UERadioAccessCapabilityInformation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UERadioAccessCapabilityInformation-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UE-TimersAndConstants.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-AM-RLC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-CCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-CCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-CyclicPrefixLength.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-DCCH-Message.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-DCCH-MessageType.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULHandoverPreparationTransfer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULHandoverPreparationTransfer-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULHandoverPreparationTransfer-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULInformationTransfer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULInformationTransfer-r8-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ULInformationTransfer-v8a0-IEs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-ReferenceSignalsPUSCH.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UL-UM-RLC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlCommonSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlCommon-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlDedicated.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlDedicatedSCell-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UplinkPowerControlDedicated-v1020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarLogMeasConfig-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarLogMeasReport-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarMeasConfig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarMeasReport.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarMeasReportList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarRLF-Report-r10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VarShortMAC-Input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xer_decoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xer_encoder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="xer_support.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sib-TypeAndInfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AbsoluteTimeInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AC-BarringConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AC-BarringConfig1XRTT-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AccessStratumRelease.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalReestabInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalReestabInfoList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalSI-Info-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AdditionalSpectrumEmission.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AllowedMeasBandwidth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntennaInfoCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntennaInfoDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntennaInfoDedicated-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntennaInfoDedicated-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntennaInfoUL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaConfiguration-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueEUTRA-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ARFCN-ValueUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AS-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AS-Config-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AS-Context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_codecs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_codecs_prim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_SEQUENCE_OF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_SET_OF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="asn_system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandclassCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassInfoCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassPriority1XRTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassPriorityHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassPriorityList1XRTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandClassPriorityListHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandCombinationListEUTRA-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandCombinationParametersExt-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandCombinationParameters-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandCombinationParameters-v1090.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandIndicatorGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandInfoEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandListEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandParametersDL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandParameters-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandParametersUL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BandParameters-v1090.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BCCH-BCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BCCH-BCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BCCH-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BCCH-DL-SCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BCCH-DL-SCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ber_decoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ber_tlv_length.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ber_tlv_tag.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BIT_STRING.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackCellsToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackCellsToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BOOLEAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CA-BandwidthClass-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CA-MIMO-ParametersDL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CA-MIMO-ParametersUL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CandidateCellInfoList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CandidateCellInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierBandwidthEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqInfoUTRA-FDD-v8h0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqListUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqListUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqListUTRA-TDD-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqsGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqsInfoGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqsInfoListGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CarrierFreqUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDMA2000-Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellChangeOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellGlobalIdCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellGlobalIdEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellGlobalIdGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellGlobalIdList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellGlobalIdUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellIdentity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellIndex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellIndexList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoGERAN-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoListGERAN-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoListUTRA-FDD-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoListUTRA-TDD-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoListUTRA-TDD-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoUTRA-FDD-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoUTRA-TDD-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellInfoUTRA-TDD-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellReselectionParametersCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellReselectionParametersCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellReselectionPriority.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellSelectionInfo-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModListUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModListUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsToAddModUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CellsTriggeredList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonSF-AllocPatternList-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constr_CHOICE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constr_SEQUENCE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constr_SEQUENCE_OF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constr_SET_OF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constr_TYPE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constraints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheck-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheckResponse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheckResponse-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheckResponse-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterCheck-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CountingRequestInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CountingRequestList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CountingResponseInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CountingResponseList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportAperiodic-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportConfig-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportConfigSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportConfig-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportModeAperiodic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportPeriodic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CQI-ReportPeriodic-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C-RNTI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CrossCarrierSchedulingConfig-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersRequestCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersRequestCDMA2000-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersRequestCDMA2000-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersResponseCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersResponseCDMA2000-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFBParametersResponseCDMA2000-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFB-RegistrationParam1XRTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSFB-RegistrationParam1XRTT-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSG-AllowedReportingCells-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSG-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSG-ProximityIndicationParameters-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSI-RS-Config-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DedicatedInfoCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DedicatedInfoNAS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeltaFList-PUCCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeltaTxD-OffsetListPUCCH-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="der_encoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-AM-RLC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-CCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-CCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-DCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-DCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DLInformationTransfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DLInformationTransfer-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DLInformationTransfer-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DL-UM-RLC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-CountInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-CountInfoList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-CountMSB-Info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-CountMSB-InfoList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-ToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-ToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRB-ToReleaseList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DRX-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E-CSFB-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EstablishmentCause.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplicitListOfARFCNs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FilterCoefficient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqBandIndicator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqBandIndicator-UTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqBandIndicator-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityListEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityListUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityListUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqPriorityUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqsPriorityGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FreqsPriorityListGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Handover.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverCommand-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverFromEUTRAPreparationRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverFromEUTRAPreparationRequest-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverFromEUTRAPreparationRequest-v890-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverFromEUTRAPreparationRequest-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverFromEUTRAPreparationRequest-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverPreparationInformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverPreparationInformation-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverPreparationInformation-v9d0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverPreparationInformation-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandoverPreparationInformation-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hysteresis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IdleModeMobilityControlInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IdleModeMobilityControlInfo-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IMSI-Digit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InitialUE-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="INTEGER.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqBandInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqBandList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqBlackCellList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqCarrierFreqInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqCarrierFreqInfo-v8h0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqCarrierFreqInfo-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqCarrierFreqList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqNeighCellInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqNeighCellList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqRSTDMeasurementIndication-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFreqRSTDMeasurementIndication-r10-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterRAT-BandInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterRAT-BandList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntraFreqBlackCellList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntraFreqNeighCellInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntraFreqNeighCellList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersCDMA2000-1XRTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersCDMA2000-1XRTT-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersCDMA2000-1XRTT-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersCDMA2000-HRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersGERAN-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-TDD128.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-TDD384.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-TDD768.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-TDD-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-v9c0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-v9h0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IRAT-ParametersUTRA-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Key-eNodeB-Star.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LocationInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggedMeasurementConfiguration-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggedMeasurementConfiguration-r10-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggingDuration-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoggingInterval-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogicalChannelConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogMeasInfoList2-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogMeasInfoList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogMeasInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogMeasReport-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MAC-MainConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MasterInformationBlock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMSCountingRequest-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMSCountingResponse-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMSCountingResponse-r10-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMS-NotificationConfig-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMS-SessionInfoList-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMS-SessionInfo-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFNAreaConfiguration-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFNAreaConfiguration-v930-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFN-AreaInfoList-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFN-AreaInfo-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFN-SubframeConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MBSFN-SubframeConfigList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MCC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MCC-MNC-Digit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasCycleSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasGapConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasId.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasIdToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasIdToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasIdToRemoveList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectId.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectToAddModList-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectToAddMod-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectToRemoveList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasObjectUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasParameters-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResult2CDMA2000-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResult2EUTRA-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResult2EUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResult2UTRA-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultForECID-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultList2CDMA2000-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultList2EUTRA-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultList2EUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultList2GERAN-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultList2UTRA-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultListEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultListGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultListUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResults.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultsCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultServFreqList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultServFreq-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasResultUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasSubframeCellList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasSubframePatternConfigNeigh-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasSubframePatternPCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasSubframePattern-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasurementReport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasurementReport-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasurementReport-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MIMO-CapabilityDL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MIMO-CapabilityUL-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MMEC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MNC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityControlInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-r9-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-v8d0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-v930-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityFromEUTRACommand-v960-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityParametersCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MobilityStateParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiBandInfoList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiBandInfoList-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiBandInfo-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="N1PUCCH-AN-CS-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="N1PUCCH-AN-PersistentList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NativeEnumerated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NativeInteger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellListCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellSI-AcquisitionParameters-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellsPerBandclassCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellsPerBandclassCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellsPerBandclassListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeighCellsPerBandclassListCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NextHopChainingCount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NonContiguousUL-RA-WithinCC-List-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NonContiguousUL-RA-WithinCC-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NULL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OCTET_STRING.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OTDOA-PositioningCapabilities-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OtherConfig-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Paging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PagingRecord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PagingRecordList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PagingUE-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Paging-v890-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Paging-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PCCH-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PDCP-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PDCP-Parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PDSCH-ConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PDSCH-ConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="per_decoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="per_encoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="per_opentype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="per_support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PHICH-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhyLayerParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhyLayerParameters-v9d0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhyLayerParameters-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhyLayerParameters-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellId.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdListCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdListCDMA2000-v920.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdRange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdRangeUTRA-FDDList-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdRangeUTRA-FDD-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysCellIdUTRA-TDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicalConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicalConfigDedicatedSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PLMN-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PLMN-IdentityInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PLMN-IdentityList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PLMN-IdentityList2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P-Max.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PMCH-Config-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PMCH-InfoList-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PMCH-Info-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PollByte.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PollPDU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PRACH-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PRACH-ConfigInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PRACH-ConfigSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PRACH-ConfigSIB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PreRegistrationInfoHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PreRegistrationZoneIdHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PresenceAntennaPort1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProximityIndication-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProximityIndication-r9-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProximityIndication-v930-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUCCH-ConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUCCH-ConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUCCH-ConfigDedicated-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUSCH-ConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUSCH-ConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUSCH-ConfigDedicatedSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PUSCH-ConfigDedicated-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q-OffsetRange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q-OffsetRangeInterRAT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q-QualMin-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Q-RxLevMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfigCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfigEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfigGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfigUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityConfigUTRA-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RACH-ConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RACH-ConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioResourceConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioResourceConfigCommonSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioResourceConfigCommonSIB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioResourceConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioResourceConfigDedicatedSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RAND-CDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RAT-Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedirectedCarrierInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedirectedCarrierInfo-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReestablishmentCause.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReestablishmentInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReestabUE-Identity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisteredMME.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReleaseCause.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigId.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigInterRAT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportConfigToRemoveList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportInterval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportProximityConfig-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReselectionThreshold.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReselectionThresholdQ-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RF-Parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RF-Parameters-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RF-Parameters-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RF-Parameters-v1060.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RF-Parameters-v1090.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RLC-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RLF-Report-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RLF-Report-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RLF-TimersAndConstants-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RNReconfigurationComplete-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RNReconfigurationComplete-r10-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RNReconfiguration-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RNReconfiguration-r10-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RN-SubframeConfig-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RN-SystemInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfiguration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfigurationComplete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfigurationComplete-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfigurationComplete-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfigurationComplete-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfiguration-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfiguration-v890-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfiguration-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReconfiguration-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentComplete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentComplete-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentComplete-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentComplete-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentComplete-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishment-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentReject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentReject-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentReject-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishmentRequest-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReestablishment-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReject-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReject-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionReject-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease-v890-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRelease-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionRequest-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetupComplete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetupComplete-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetupComplete-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetupComplete-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetup-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRCConnectionSetup-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRC-TransactionIdentifier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RRM-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RSRP-Range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RSRQ-Range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RSTD-InterFreqInfoList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RSTD-InterFreqInfo-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCellIndex-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCellToAddModList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCellToAddMod-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SCellToReleaseList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SchedulingInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SchedulingInfoList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SchedulingRequestConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SchedulingRequestConfig-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecondaryPreRegistrationZoneIdListHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityAlgorithmConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityConfigHO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityConfigSMC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeCommand-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeCommand-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeComplete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeComplete-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeComplete-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeFailure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeFailure-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SecurityModeFailure-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServCellIndex-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShortMAC-I.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SIB-MappingInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SIB-Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SI-OrPSI-GERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SN-FieldLength.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SON-Parameters-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundingRS-UL-ConfigCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundingRS-UL-ConfigDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundingRS-UL-ConfigDedicatedAperiodic-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundingRS-UL-ConfigDedicated-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedStateScaleFactors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SPS-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SPS-ConfigDL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SPS-ConfigUL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SRB-ToAddMod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SRB-ToAddModList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SRS-AntennaPort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SRS-ConfigAp-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="S-TMSI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandCombinationExt-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandCombination-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandCombination-v1090.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandList1XRTT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListEUTRA-v9e0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListHRPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListUTRA-TDD128.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListUTRA-TDD384.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandListUTRA-TDD768.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandUTRA-FDD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandUTRA-TDD128.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandUTRA-TDD384.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandUTRA-TDD768.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SupportedBandwidthCombinationSet-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInfoListGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType1-v8h0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType1-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType1-v890-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType1-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType2-v8h0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType2-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType5-v8h0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType5-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType6-v8h0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType12-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformationBlockType13-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformation-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemInformation-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemTimeInfoCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TDD-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThresholdCDMA2000.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThresholdEUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThresholdGERAN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThresholdUTRA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeAlignmentTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeToTrigger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TMGI-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TPC-Index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TPC-PDCCH-Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T-PollRetransmit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TraceReference-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackingAreaCode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackingAreaCodeList-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T-Reordering.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T-Reselection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T-StatusProhibit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-BasedNetwPerfMeasParameters-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityEnquiry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityEnquiry-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityEnquiry-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityInformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityInformation-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UECapabilityInformation-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-CapabilityRAT-Container.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-CapabilityRAT-ContainerList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-CapabilityRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-CapabilityAddXDD-Mode-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-CapabilityAddXDD-Mode-v1060.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v9a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v9c0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v9d0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v9h0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v10c0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v920-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v940-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v1060-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-EUTRA-Capability-v1090-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationRequest-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationRequest-r9-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationRequest-v930-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationRequest-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationResponse-r9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationResponse-r9-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationResponse-v9e0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationResponse-v930-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UEInformationResponse-v1020-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UERadioAccessCapabilityInformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UERadioAccessCapabilityInformation-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UE-TimersAndConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-AM-RLC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-CCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-CCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-CyclicPrefixLength.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-DCCH-Message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-DCCH-MessageType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULHandoverPreparationTransfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULHandoverPreparationTransfer-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULHandoverPreparationTransfer-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULInformationTransfer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULInformationTransfer-r8-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ULInformationTransfer-v8a0-IEs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-ReferenceSignalsPUSCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UL-UM-RLC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlCommonSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlCommon-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlDedicated.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlDedicatedSCell-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UplinkPowerControlDedicated-v1020.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarLogMeasConfig-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarLogMeasReport-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarMeasConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarMeasReport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarMeasReportList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarRLF-Report-r10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VarShortMAC-Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xer_decoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xer_encoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xer_support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sib-TypeAndInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
